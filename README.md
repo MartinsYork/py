@@ -1,2 +1,2 @@
 # py
-oop and plus
+oop and plus minor projects
