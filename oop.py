@@ -12,3 +12,6 @@ print(c2.name, c2.membership_type)
 
 c3 = Customer("martino", "Dangerous")
 print(c3.name, c3.membership_type)
+
+c4 = Customer("marinara", "Obnoctous")
+print(c2.name, c2.membership_type)
