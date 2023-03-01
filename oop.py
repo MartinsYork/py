@@ -7,7 +7,7 @@ class Customer:
 c = Customer("York", "Diamond")
 print(c.name, c.membership_type)
 
-c2 = Customer("marino", "Danger")
+c2 = Customer("Dorathy", "Blues")
 print(c2.name, c2.membership_type)
 
 c3 = Customer("martino", "Dangerous")
